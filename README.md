@@ -1,19 +1,25 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🖼️ Meme Generator
+A fun and interactive meme generator built with React, allowing users to generate custom meme images with editable top and bottom text. This project was developed as part of the Scrimba Frontend Developer Career Path to practice component logic, controlled inputs, and state management in React.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+🚀 Features
+🔁 Generates a random meme image on button click
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+✍️ Editable top and bottom text inputs
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+⚛️ Built using functional React components and useState
 
-Happy Coding!
+🎯 Controlled form elements for real-time updates
+
+💡 Responsive and beginner-friendly UI
+
+🛠️ Technologies Used
+React
+
+JavaScript (ES6+)
+
+HTML/CSS
+
+Vite (for fast development setup)
+
+The Imgflip API for meme templates
+
