@@ -39,3 +39,5 @@ Built as part of the [Scrimba Frontend Developer Career Path](https://scrimba.co
 - Styling and layout design with CSS
 - Creating simple, dynamic user experiences
 
+---
+
