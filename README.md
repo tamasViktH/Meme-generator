@@ -1,25 +1,41 @@
-🖼️ Meme Generator
-A fun and interactive meme generator built with React, allowing users to generate custom meme images with editable top and bottom text. This project was developed as part of the Scrimba Frontend Developer Career Path to practice component logic, controlled inputs, and state management in React.
+# 🖼️ Meme Generator – A React App for Custom Memes
 
-🚀 Features
-🔁 Generates a random meme image on button click
+**Meme Generator** is a fun and interactive React app that allows users to create their own memes by entering top and bottom text over randomly selected meme images. It fetches templates from an API and updates the content in real time.
 
-✍️ Editable top and bottom text inputs
+Built as part of the [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend), this project helped me strengthen my understanding of controlled components, event handling, and dynamic rendering in React.
 
-⚛️ Built using functional React components and useState
+---
 
-🎯 Controlled form elements for real-time updates
+## 🚀 Live Demo
 
-💡 Responsive and beginner-friendly UI
+🔗 [Try it on Netlify](https://meme-generator-hazos.netlify.app)
 
-🛠️ Technologies Used
-React
+---
 
-JavaScript (ES6+)
+## 🎮 Features
 
-HTML/CSS
+- 🖼️ Random meme template generator
+- ✍️ Editable top and bottom text
+- ⚛️ Real-time updates using React state
+- 🔄 Dynamic image refresh with a button
+- 📱 Fully responsive layout
 
-Vite (for fast development setup)
+---
 
-The Imgflip API for meme templates
+## 🛠 Tech Stack
+
+- React (functional components, hooks)
+- JavaScript (ES6+)
+- Vite (fast development setup)
+- Custom CSS
+
+---
+
+## 📚 What I Learned
+
+- Handling form inputs using `useState`
+- Fetching and rendering external API data
+- Component-based layout and prop usage
+- Styling and layout design with CSS
+- Creating simple, dynamic user experiences
 
